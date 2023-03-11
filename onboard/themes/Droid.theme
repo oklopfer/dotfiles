@@ -5,7 +5,7 @@
   <key_style>flat</key_style>
   <roundrect_radius>40.0</roundrect_radius>
   <key_size>98.0</key_size>
-  <key_stroke_width>100.0</key_stroke_width>
+  <key_stroke_width>0.0</key_stroke_width>
   <key_fill_gradient>4.0</key_fill_gradient>
   <key_stroke_gradient>15.0</key_stroke_gradient>
   <key_gradient_direction>-5.0</key_gradient_direction>
