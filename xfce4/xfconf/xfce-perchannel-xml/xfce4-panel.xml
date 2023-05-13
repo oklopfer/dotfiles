@@ -49,7 +49,7 @@
       <property name="timezone" type="string" value="America/New_York"/>
       <property name="digital-layout" type="uint" value="3"/>
       <property name="digital-time-font" type="string" value="Sans 20"/>
-      <property name="digital-time-format" type="string" value="   &lt;b&gt;%_I:%M %p&lt;/b&gt;    %a %b %d   "/>
+      <property name="digital-time-format" type="string" value="   %_I:%M %p    %a %b %d   "/>
     </property>
     <property name="plugin-12" type="string" value="power-manager-plugin"/>
     <property name="plugin-13" type="string" value="pulseaudio">
